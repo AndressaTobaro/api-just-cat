@@ -1,2 +1,3 @@
-# api-just-cat
-Repositório que retorna imagens de gatos randomicamente
+# API PROJECT Just Cat
+Gerador de imagens de gatos randomicamente
+
